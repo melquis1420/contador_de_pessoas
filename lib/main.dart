@@ -28,7 +28,7 @@ class _HomeState extends State<Home> {
       }else if(_people<10){
         _infoText="Pode Entrar!";
       }else{
-        _infoText=("Local Locato!!");
+        _infoText=("Local Lotado!!");
       }
     });
 
